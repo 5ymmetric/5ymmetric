@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5ymmetric (Karthik Reddy Pagilla)
-- 👀 I’m interested in Coding, Software Development
+- 👀 I’m interested in Coding, Software Development, Video Games
 - 🌱 I’m currently learning Docker, Kubernetes, Service Mesh
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 How to reach me - Email: karthikpagilla.tr@gmail.com
